@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ezequ\\source\\repos\\Estacionamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\caminhao .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\caminhao .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\pagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\pagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +23,16 @@
       "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\pagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\pagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|solutionrelative:estacionamento\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68639DF3-344C-B8F1-E117-D399113FCBE1}|Estacionamento\\Estacionamento..csproj|c:\\users\\ezequ\\source\\repos\\estacionamento\\estacionamento\\enums\\tipo-veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Caminhao .cs",
               "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Estacionamento\\Estacionamento\\Models\\Caminhao .cs",
               "RelativeDocumentMoniker": "Estacionamento\\Models\\Caminhao .cs",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "carro.cs",
               "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Estacionamento\\Estacionamento\\Models\\carro.cs",
               "RelativeDocumentMoniker": "Estacionamento\\Models\\carro.cs",
@@ -79,8 +79,7 @@
               "RelativeToolTip": "Estacionamento\\Models\\carro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T22:32:58.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T22:32:58.359Z"
             },
             {
               "$type": "Document",
@@ -92,12 +91,11 @@
               "RelativeToolTip": "Estacionamento\\Models\\Moto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T22:33:05.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T22:33:05.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Pagamentos.cs",
               "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Estacionamento\\Estacionamento\\Models\\Pagamentos.cs",
               "RelativeDocumentMoniker": "Estacionamento\\Models\\Pagamentos.cs",
@@ -105,12 +103,11 @@
               "RelativeToolTip": "Estacionamento\\Models\\Pagamentos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T23:05:58.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T23:05:58.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Estacionamento\\Estacionamento\\Models\\Ticket.cs",
               "RelativeDocumentMoniker": "Estacionamento\\Models\\Ticket.cs",
@@ -118,12 +115,11 @@
               "RelativeToolTip": "Estacionamento\\Models\\Ticket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T22:51:49.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T22:51:49.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Veiculo.cs",
               "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Estacionamento\\Estacionamento\\Models\\Veiculo.cs",
               "RelativeDocumentMoniker": "Estacionamento\\Models\\Veiculo.cs",
@@ -131,12 +127,11 @@
               "RelativeToolTip": "Estacionamento\\Models\\Veiculo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T22:26:13.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T22:26:13.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "TicketRepository.cs",
               "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Estacionamento\\Estacionamento\\Repositories\\TicketRepository.cs",
               "RelativeDocumentMoniker": "Estacionamento\\Repositories\\TicketRepository.cs",
@@ -144,12 +139,11 @@
               "RelativeToolTip": "Estacionamento\\Repositories\\TicketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T00:43:42.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-14T00:43:42.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ezequ\\source\\repos\\Estacionamento\\Estacionamento\\Program.cs",
               "RelativeDocumentMoniker": "Estacionamento\\Program.cs",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "Estacionamento\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T22:08:54.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T22:08:54.61Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "Estacionamento\\Enums\\Tipo-Veiculos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T22:16:10.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T22:16:10.624Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "Estacionamento\\Enums\\Tipopagamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T22:23:41.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T22:23:41.784Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "Estacionamento\\Data\\Conexao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T00:12:27.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-14T00:12:27.054Z"
             }
           ]
         }

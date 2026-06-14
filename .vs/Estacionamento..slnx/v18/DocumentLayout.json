@@ -54,12 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -95,8 +91,7 @@
               "RelativeToolTip": "Estacionamento\\Models\\Moto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T22:33:05.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T22:33:05.986Z"
             },
             {
               "$type": "Document",
@@ -108,8 +103,7 @@
               "RelativeToolTip": "Estacionamento\\Models\\Pagamentos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T23:05:58.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T23:05:58.331Z"
             },
             {
               "$type": "Document",
@@ -133,8 +127,7 @@
               "RelativeToolTip": "Estacionamento\\Models\\Veiculo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T22:26:13.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T22:26:13.609Z"
             },
             {
               "$type": "Document",
@@ -146,8 +139,7 @@
               "RelativeToolTip": "Estacionamento\\Repositories\\TicketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T00:43:42.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-14T00:43:42.264Z"
             },
             {
               "$type": "Document",
@@ -159,8 +151,7 @@
               "RelativeToolTip": "Estacionamento\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T22:08:54.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T22:08:54.61Z"
             },
             {
               "$type": "Document",
